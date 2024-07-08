@@ -10,6 +10,9 @@ This project provides a Python script to scrape job postings from LinkedIn and e
 - **Profile Scraping:** Extracts profile information from a LinkedIn profile URL, including name, title, location, and LinkedIn profile URL.
 - **Email Notification:** Sends an email with the top 3 job postings and profile information attached as an Excel file.
 
+![Job Postings & Profile Info Scraped Output in Email Body](images/Email_Table_Output.png)
+![Job Listings XLS Output attached in Email](images/JobPostings_XLS_Output.png)
+
 ## Requirements
 
 - Python 3.x
